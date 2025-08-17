@@ -59,13 +59,13 @@ compose.desktop {
             vendor = "Christopher Two"
 
             windows {
-                iconFile.set(project.file("src/main/resources/icono.ico"))
+                iconFile.set(project.file("src/jvmMain/resources/icono.ico"))
             }
             macOS {
-                iconFile.set(project.file("src/main/resources/icono.icns"))
+                iconFile.set(project.file("src/jvmMain/resources/icono.icns"))
             }
             linux {
-                iconFile.set(project.file("src/main/resources/icono.png"))
+                iconFile.set(project.file("src/jvmMain/resources/icono.png"))
             }
         }
     }
