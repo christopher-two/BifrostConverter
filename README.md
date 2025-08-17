@@ -1,5 +1,9 @@
 # Bifrost Converter
 
+<p align="center">
+  <img src="Bifrost_converter.gif" alt="Bifrost Converter Demo" width="400"/>
+</p>
+
 ## 1. Resumen del Proyecto
 
 Bifrost Converter es una aplicación de escritorio multiplataforma (para Windows, macOS y Linux) que funciona como una calculadora y conversor de sistemas numéricos avanzado. Su propósito principal es demostrar un entendimiento profundo de los sistemas numéricos (Decimal, Binario, Hexadecimal, Octal) y una arquitectura de desarrollo moderna utilizando Kotlin Multiplatform (KMP).
